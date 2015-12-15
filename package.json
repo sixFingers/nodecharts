@@ -1,0 +1,10 @@
+{
+  "name": "serverCharts",
+  "dependencies": {
+    "canvas": "",
+    "nchart": "",
+    "express": "",
+    "multer": "",
+    "body-parser": ""
+  }
+}
